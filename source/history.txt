@@ -1,0 +1,15 @@
+os
+pwd
+ps
+exec < a > b
+exit
+history <
+ls -s | less
+ls -l | less
+ls -l
+exit
+ls -l | less
+ls -l
+exit
+ls -l | less
+exit
